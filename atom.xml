@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Starry</title>
   
-  
+  <subtitle>always love you</subtitle>
   <link href="https://52hert-z.github.io/atom.xml" rel="self"/>
   
   <link href="https://52hert-z.github.io/"/>
-  <updated>2021-06-26T15:12:49.480Z</updated>
+  <updated>2021-06-26T17:29:55.446Z</updated>
   <id>https://52hert-z.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://52hert-z.github.io/2021/06/25/hello-world/"/>
     <id>https://52hert-z.github.io/2021/06/25/hello-world/</id>
     <published>2021-06-24T16:00:00.000Z</published>
-    <updated>2021-06-26T15:12:49.480Z</updated>
+    <updated>2021-06-26T17:29:55.446Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="Quick-Start">Quick Start</h2><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h3 id="测试一下mermaid插件">测试一下mermaid插件</h3><div class="mermaid">pie    title Key elements in Product X    &quot;Calcium&quot; : 42.96    &quot;Potassium&quot; : 50.05    &quot;Magnesium&quot; : 10.01    &quot;Iron&quot; :  5</div><h3 id="测试一下公式">测试一下公式</h3><p>$$<br>\lim_{x\rightarrow 0}\left ( 1+x \right )^{\frac{1}{x}}=e<br>$$</p>]]></content>
     
@@ -35,6 +35,28 @@
     
     
     <category term="博客搭建" scheme="https://52hert-z.github.io/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构第一章笔记</title>
+    <link href="https://52hert-z.github.io/2021/06/25/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%AC%E4%B8%80%E7%AB%A0/"/>
+    <id>https://52hert-z.github.io/2021/06/25/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%AC%E4%B8%80%E7%AB%A0/</id>
+    <published>2021-06-24T16:00:00.000Z</published>
+    <updated>2021-06-26T17:28:14.268Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1></h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="数据结构" scheme="https://52hert-z.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
